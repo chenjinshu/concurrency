@@ -1,6 +1,5 @@
-package com.mmall.concurrency.singleton;
+package com.mmall.concurrency.example.singleton;
 
-import com.mmall.concurrency.annotations.NotThreadSafe;
 import com.mmall.concurrency.annotations.Recommend;
 import com.mmall.concurrency.annotations.ThreadSafe;
 

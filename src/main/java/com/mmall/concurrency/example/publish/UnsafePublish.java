@@ -1,4 +1,4 @@
-package com.mmall.concurrency.publish;
+package com.mmall.concurrency.example.publish;
 
 import com.mmall.concurrency.annotations.NotThreadSafe;
 import org.slf4j.Logger;
